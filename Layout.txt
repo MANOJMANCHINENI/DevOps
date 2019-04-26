@@ -1,0 +1,24 @@
+    Name           Age  Gender
+    *************************
+  Date: 10-26-2017
+
+    Alfred         14   M
+    Alice          13   F
+    Barbara        13   F
+    Carol          14   F
+    Henry          14   M
+    James          12   M
+    Jane           12   F
+    Janet          15   F
+    Jeffrey        13   M
+    John           12   M
+    Joyce          11   F
+    Judy           14   F
+    Louise         12   F
+    Mary           15   F
+    Philip         16   M
+    Robert         12   M
+    Ronald         15   M
+    Thomas         11   M
+    William        15   M
+    *************************
